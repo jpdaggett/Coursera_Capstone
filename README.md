@@ -1,6 +1,4 @@
-## Welcome to the Coursera Capstone for the IBM Data Science Certificate
-
-You can use the [editor on GitHub](https://github.com/jpdaggett/Coursera_Capstone/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to my Coursera Capstone for the IBM Data Science Certificate
 
 - The Link to the final **Notebook** can be found here:  (https://github.com/jpdaggett/Coursera_Capstone/blob/master/Capstone_The_Battle_of_the_Neighborhoods_Week2_Final.ipynb)
 
