@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Coursera Capstone for the IBM Data Science Certificate
 
 You can use the [editor on GitHub](https://github.com/jpdaggett/Coursera_Capstone/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
